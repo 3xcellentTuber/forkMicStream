@@ -1,0 +1,15 @@
+.DS_Store
+.dart_tool/
+
+.idea
+.packages
+.pub/
+pubspec.lock
+
+build/
+
+.idea/*
+./.idea/workspace.xml
+.idea/workspace.xml
+
+mic_stream.iml
